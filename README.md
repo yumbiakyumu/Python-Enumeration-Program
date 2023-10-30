@@ -23,4 +23,3 @@ my_enum_script.py: The main Python script file containing the functionality.
 enum module is used for defining and handling Enums.
 Contributing
 Contributions are welcome! If you have suggestions, ideas, or improvements, feel free to fork this repository and create a pull request.
-
